@@ -7,3 +7,4 @@ TestVersion Conflict local
 
 Test Version Confilct Remote
 
+helloWorld---->hjc
